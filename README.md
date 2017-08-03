@@ -1,3 +1,16 @@
+para instalar
+
+no diretorio raspmdx
+make
+
+nos diretorios dos aplicativos 
+
+make
+para usar ./aplicativo
+
+
+
+
 # Dispmanx
 
 There are a number of APIs available for the Raspberry Pi that can make use
