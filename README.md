@@ -3,10 +3,7 @@ para instalar
 no diretorio raspmdx
 make
 
-nos diretorios dos aplicativos 
 
-make
-para usar ./aplicativo
 
 
 
